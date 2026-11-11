@@ -1,0 +1,15 @@
+# Local env files
+.env
+!.env.example
+
+# OS generated
+Thumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
